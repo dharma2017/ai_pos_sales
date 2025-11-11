@@ -1,7 +1,20 @@
-streamlit
-opencv-python
-pandas
-openpyxl
-ultralytics
-torch
-pillow
+# Core Web App
+streamlit>=1.36.0
+
+# Computer Vision & AI
+opencv-python>=4.9.0
+ultralytics>=8.2.0
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Data Handling
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.2
+
+# Image Processing
+Pillow>=10.2.0
+
+# Utility
+pathlib
+datetime
